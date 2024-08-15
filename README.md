@@ -10,7 +10,7 @@ The first release will be made on 10/10/2024
 i am busy see you later.  
 have a nice day  ahead  
 -FUTURE PLAN AND LICENSE  
-there can be optional support for apks ( can be or not)  by integrating android runtime environment 
+there can be optional support for apks ( can be or not)  by integrating android runtime environment.  
 it is open source , you can use for all things except business and commercial things.  
 -
 
