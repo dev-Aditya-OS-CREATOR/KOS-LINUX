@@ -9,5 +9,8 @@ The first release will be made on 10/10/2024
 -SEE YOU LATER  
 i am busy see you later.  
 have a nice day  ahead  
+-FUTURE PLAN AND LICENSE 
+there can be optional support for apks ( can be or not)  
+it is open source , you can use for all things except business and commercial things.  
 -
 
