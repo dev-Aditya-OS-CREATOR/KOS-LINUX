@@ -10,8 +10,6 @@ The first release will be made on 10/10/2024
 -SEE YOU LATER  
 i am busy see you later.  
 have a nice day  ahead  
--FUTURE PLAN AND LICENSE    
-it is open source , you can use for all things except business and commercial things.  
--
+-LICENSE
 PLEASE REFER TO THE DOCUMENTATION.
 -
